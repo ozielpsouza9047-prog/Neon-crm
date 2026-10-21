@@ -1,0 +1,6 @@
+{
+  "name": "Nexus CRM",
+  "description": "Painel administrativo moderno e futurista para Gestão de Clientes",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
